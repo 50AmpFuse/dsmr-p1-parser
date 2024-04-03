@@ -122,7 +122,7 @@ The `packmsg`-branch contains an experimental application that reads telegrams f
    
 ## Other resources
 
-I wrote this parser for use at [LENS](http://lens-energie.nl/), because I needed something that was light-weight and complete, and there currently does not seem to be another full DSMR P1 telegram-parser that is open-source and can be used in regular C programs. However, there are many parsers in many other programming languages:
+I wrote this parser for use at [Lens](http://lens-energie.nl/), because I needed something that was light-weight and complete, and there currently does not seem to be another full DSMR P1 telegram-parser that is open-source and can be used in regular C programs. However, there are many parsers in many other programming languages:
 
    - Matthijs Kooijman's [DSMR P1-parser for Arduino](https://github.com/matthijskooijman/arduino-dsmr), written in C++. 
    - [Go library for reading/parsing P1-data](https://github.com/mhe/dsmr4p1)
@@ -141,6 +141,7 @@ I wrote this parser for use at [LENS](http://lens-energie.nl/), because I needed
 
 For more information on interfacing with the P1-port (mostly in Dutch):
 
+   - <https://github.com/energietransitie/dsmr-info> 
    - <http://domoticx.com/p1-poort-slimme-meter-uitlezen-hardware/>
    - <http://domoticx.com/p1-poort-slimme-meter-hardware/>
    - <http://domoticx.com/arduino-p1-poort-telegrammen-uitlezen/>
